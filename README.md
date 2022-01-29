@@ -1,7 +1,7 @@
 ## Hi there, Aniket this side 👋👨🏻‍💻 .
 <img src="https://komarev.com/ghpvc/?username=Aniket-508" alt="https://github.com/Aniket-508" /> [![Linkedin Badge](https://img.shields.io/badge/-Aniket%20Pawar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-pawar-508/ "Connect on LinkedIn")  [![Twitter Badge](https://img.shields.io/badge/-@alaymanguy-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=alaymanguy "Follow on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-pawaraniket508@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pawaraniket508@gmail.com "Connect via Email")
 
-I'm studying my Final Year of Bachelor's in Computer Engineering pursuing from Univerity Of Mumbai, India 📍. Apart from this, I'm a passionate Software Developer and Open Source Advocate too.
+I'm currently in my Final Year of Bachelor's in Computer Engineering pursuing from Univerity Of Mumbai, India 📍. Apart from this, I'm a passionate Software Developer and Open Source Advocate too.
 
 - 🔭 I’m currently working on Internship Projects and Personal Blog Website.
 - 🌱 I’m currently learning Solidity and how Web3 works?
