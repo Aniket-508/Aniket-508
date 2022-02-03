@@ -6,7 +6,7 @@
 I'm currently in my Final Year of Bachelor's in Computer Engineering pursuing from Univerity Of Mumbai, India 📍. Apart from this, I'm a passionate Software Developer and Open Source Advocate too.
 
 - 🔭 I’m currently working on Internship Projects.
-- 🌱 I’m currently mastering Javascript, ReactJS and NextJS.
+- 🌱 I’m currently mastering Frontend Development skills.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Javascript, ReactJS and NextJS.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
