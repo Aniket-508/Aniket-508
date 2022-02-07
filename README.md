@@ -9,7 +9,7 @@ Apart from this, I'm a passionate Software Developer and Open Source Advocate to
 - 🔭 I’m currently working on **Internship Projects**.
 - 🌱 I’m currently mastering **Frontend Development skills**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Javascript, React and Next.js**.
+- 💬 Ask me about **JavaScript, React and Next.js**.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - ⚡ Fun fact: **Dark theme** and **dark humour** are always by my side.
 
