@@ -3,19 +3,20 @@
 
 <img height="220em" align="right" src="https://github.com/Aniket-508/Aniket-508/blob/main/IMG_0996.PNG" alt="Aniket Coding"/>
 
-I'm currently in my Final Year of Bachelor's in Computer Engineering pursuing from Univerity Of Mumbai, India 📍. Apart from this, I'm a passionate Software Developer and Open Source Advocate too.
+I'm currently in my Final Year of Bachelor's in Computer Engineering pursuing from Univerity Of Mumbai, India 📍.  
+Apart from this, I'm a passionate Software Developer and Open Source Advocate too.
 
-- 🔭 I’m currently working on Internship Projects.
-- 🌱 I’m currently mastering Frontend Development skills.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 💬 Ask me about Javascript, ReactJS and NextJS.
+- 🔭 I’m currently working on **Internship Projects**.
+- 🌱 I’m currently mastering **Frontend Development skills**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **Javascript, React and Next.js**.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- ⚡ Fun fact: Dark theme and dark humour are always by my side.
+- ⚡ Fun fact: **Dark theme** and **dark humour** are always by my side.
 
 <details>
-  <summary>Some of my Github Public Stats :computer:</summary>
+  <summary>Some of my GitHub Public Stats :computer:</summary>
   <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniket-508&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-508&layout=compact&langs_count=6&theme=algolia" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aniket-508&theme=algolia&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-508&layout=compact&langs_count=6&theme=algolia" />
 </details>
