@@ -17,6 +17,6 @@ Apart from this, I'm a passionate Software Developer and Open Source Advocate to
   <summary>Some of my GitHub Public Stats :computer:</summary>
   <br/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aniket-508&theme=algolia&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-508&layout=compact&langs_count=6&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aniket-508&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-508&layout=compact&langs_count=6&theme=algolia" />
 </details>
