@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Am I **Spiderman**? because all I do is **Web**.
 
 <details>
-  <summary>Some of my GitHub Public Stats :computer:</summary>
+  <summary>Some of my GitHub Public Stats 📋</summary>
   <br/>
   
   <p align="center">
