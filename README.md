@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aniket-508" alt="https://github.com/Aniket-508" /> [![Linkedin Badge](https://img.shields.io/badge/-Aniket%20Pawar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-pawar-4960911b8/ "Connect on LinkedIn")  [![Twitter Badge](https://img.shields.io/badge/-@alaymanguy-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/alaymanguy "Connect on Twitter")  [![Gmail Badge](https://img.shields.io/badge/-pawaraniket508@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pawaraniket508@gmail.com "Connect via Email")
 
-- 🔭 I’m currently working on **Internship Projects**.
+- 🔭 I’m currently working as **SDE-1 at [HireQuotient](https://hirequotient.com)**.
 - 🌱 I’m currently mastering **Frontend Development skills**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React and Next.js**.
