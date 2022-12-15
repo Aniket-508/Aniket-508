@@ -1,7 +1,7 @@
 ## Hi there, Aniket this side 👋.
 <img height="220em" align="right" src="https://github.com/Aniket-508/Aniket-508/blob/main/IMG_0996.PNG" alt="Aniket Coding"/>
 
-<img src="https://komarev.com/ghpvc/?username=Aniket-508" alt="https://github.com/Aniket-508" /> [![Linkedin Badge](https://img.shields.io/badge/-Aniket%20Pawar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-pawar-4960911b8/ "Connect on LinkedIn")  [![Gmail Badge](https://img.shields.io/badge/-pawaraniket508@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pawaraniket508@gmail.com "Connect via Email")  [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/aniket_pawar)](https://peerlist.io/aniket_pawar)
+<img src="https://komarev.com/ghpvc/?username=Aniket-508" alt="https://github.com/Aniket-508" /> [![Linkedin Badge](https://img.shields.io/badge/-Aniket%20Pawar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-pawar-4960911b8/ "Connect on LinkedIn")  [![Gmail Badge](https://img.shields.io/badge/-pawaraniket508@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pawaraniket508@gmail.com "Connect via Email")  [![Peerlist](https://peerlist.onrender.com/api/aniket_pawar)](https://peerlist.io/aniket_pawar)
 
 - 🔭 I’m currently working as **SDE-1 at [HireQuotient](https://hirequotient.com)**.
 - 🌱 I’m currently mastering **Frontend Development skills**.
