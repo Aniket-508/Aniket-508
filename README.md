@@ -25,7 +25,7 @@
 
 | Name | Certificate |
 | ----------- | ----------- |
-| GDSC IIIT Kalyani's of Code 2021 | [Link](https://drive.google.com/file/d/1ZRsofSA7eqMr_6b66sYXtrGo0u_oiYu7/view?usp=sharing) |
+| GDSC IIIT Kalyani's of Code 2021 | [Link](https://drive.google.com/file/d/1QkdWDWXSLJbR_jXchSpkG1hKm8adgsU1/view?usp=sharing) |
 | Delta Winter of Code 2021 | [Link](https://drive.google.com/file/d/1cVex8tReEqJ6zUqAYxSQOO7u25XhZuER/view?usp=sharing) |
 | Script Winter of Code 2021 | [Link](https://drive.google.com/file/d/1poa0Qw39jZdwgDBg6bZX4NMhU6Ajhtds/view?usp=sharing) |
 | Kharagpur Winter of Code 2021 | [Link](https://drive.google.com/file/d/1s0zRR4XnKAWdmqVV0OvWQOiA41_g0iDx/view?usp=sharing) |
