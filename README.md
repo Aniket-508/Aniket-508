@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working as **Frontend Engineer at [Harmoney](https://www.harmoney.in/)**.
 - 🌱 I’m currently mastering **Frontend Development skills**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 🖇️ I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React and Next.js**.
-- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- ⚡ Fun fact: Am I **Spiderman**? because all I do is **Web**.
+- 😄 Fun fact: Am I **Spiderman**? because all I do is **Web**.
 
 <details>
   <summary>Some of my GitHub Public Stats 📋</summary>
