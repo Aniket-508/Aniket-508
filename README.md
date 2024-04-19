@@ -1,8 +1,6 @@
-**Hey, I am Aniket Pawar 👨‍💻**
-
 ![gh-profile-banner](/gh-profile-banner.png)
 
-- 🔭 I’m currently working as **SDE-1 at [HireQuotient](https://hirequotient.com)**.
+- 🔭 I’m currently working as **Frontend Engineer at [Harmoney](https://www.harmoney.in/)**.
 - 🌱 I’m currently mastering **Frontend Development skills**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **JavaScript, React and Next.js**.
