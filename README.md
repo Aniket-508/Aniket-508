@@ -1,2 +1,1 @@
-[![Aniket Pawar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Aniket-508\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Aniket-508/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Aniket Pawar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Aniket-508\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/Aniket-508/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+![GitHub Card](https://githubcard.com/Aniket-508.svg?d=LpcEW6Na&nocache=1)
