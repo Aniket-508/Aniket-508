@@ -1,1 +1,27 @@
-hey, i’m aniket — a frontend engineer who loves creating products with beautiful user interfaces that live on the internet.
+# Aniket Pawar
+
+Frontend engineer obsessed with visual craft and building products that feel fast, polished, and human. Building an ecosystem of shadcn-style component registries.
+
+Founder [@shadcn-labs](https://www.shadcn-labs.com)
+
+🌏 Mumbai, India · 🌐 [aniketpawar.com](https://www.aniketpawar.com) · 𝕏 [@alaymanguy](https://x.com/alaymanguy)
+
+---
+
+### Component Registries
+- 🖥️ [termcn](https://termcn.dev): terminal UI components for React, built on Ink and OpenTUI
+- 🎞️ [framecn](https://github.com/shadcn-labs/framecn): video components for React, built on Editframe
+- 🖼️ [ogimagecn](https://github.com/shadcn-labs/og-image-cn): open graph image components for React, built on Satori
+- 🤖 [agentcn](https://github.com/shadcn-labs/agentcn): customizable and production-ready AI agent recipes, built on Eve, Flue, Mastra, LangGraph
+- 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX.
+- ⭐️ [heroicons-animated](https://heroicons-animated.com): 316 beautifully animated Heroicons for React.
+
+### Developer Tooling
+- 🎁 [Awesome OSS Perks](https://www.ossperks.com): CLI + site aggregating free credit and license programs for OSS maintainers.
+- 🩺 [Vercel Doctor](https://www.vercel-doctor.com): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects.
+
+---
+
+<sub>If my work helps you, consider sponsoring me — [GitHub Sponsors](https://github.com/sponsors/Aniket-508) 💚 · [Buy Me a Coffee](https://buymeacoffee.com/aniketpawar508) ☕</sub>
+
+<sub>Building in the open, one registry at a time. [Book a call](https://cal.com/aniket-pawar) · [Resume](https://www.aniketpawar.com/resume.pdf)</sub>
