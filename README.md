@@ -9,12 +9,12 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com)
 ---
 
 ### Component Registries
+- ⭐️ [heroicons-animated](https://heroicons-animated.com): 316 beautifully animated Heroicons for React.
 - 🖥️ [termcn](https://termcn.dev): terminal UI components for React, built on Ink and OpenTUI
 - 🎞️ [framecn](https://github.com/shadcn-labs/framecn): video components for React, built on Editframe
 - 🖼️ [ogimagecn](https://github.com/shadcn-labs/og-image-cn): open graph image components for React, built on Satori
 - 🤖 [agentcn](https://github.com/shadcn-labs/agentcn): customizable and production-ready AI agent recipes, built on Eve, Flue, Mastra, LangGraph
 - 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX.
-- ⭐️ [heroicons-animated](https://heroicons-animated.com): 316 beautifully animated Heroicons for React.
 
 ### Developer Tooling
 - 🎁 [Awesome OSS Perks](https://www.ossperks.com): CLI + site aggregating free credit and license programs for OSS maintainers.
