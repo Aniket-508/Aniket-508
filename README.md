@@ -10,6 +10,7 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com)
 
 ### Component Registries
 - ⭐️ [heroicons-animated](https://github.com/heroicons-animated/heroicons-animated): 316 beautifully animated Heroicons for React. `143 ★`
+- 📦 [startercn](https://github.com/shadcn-labs/startercn): A shadcn/ui registry template with built-in landing page, docs, AI agent ready, and baked-in web haptics, audio, and animations. `22 ★`
 - 🖥️ [termcn](https://github.com/shadcn-labs/termcn): terminal UI components for React, built on Ink and OpenTUI. `781 ★`
 - 🎞️ [framecn](https://github.com/shadcn-labs/framecn): video components for React, built on Editframe. `105 ★`
 - 🖼️ [ogimagecn](https://github.com/shadcn-labs/ogimagecn): open graph image components for React, built on Satori. `117 ★`
@@ -19,6 +20,10 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com)
 ### Developer Tooling
 - 🎁 [Awesome OSS Perks](https://github.com/Aniket-508/awesome-oss-perks): CLI + site aggregating free credit and license programs for OSS maintainers. `23 ★`
 - 🩺 [Vercel Doctor](https://github.com/Aniket-508/vercel-doctor): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects. `42 ★`
+- ⚓️ [Better OG](https://github.com/Aniket-508/better-og) - Better Open Graph image toolkit. `11 ★`
+
+### Apps
+- 🐦 [Twitter Followers Video](https://github.com/Aniket-508/twitter-followers-video): Generate animated videos to celebrate and share your Twitter/X follower milestones. `2 ★`
 
 ---
 
