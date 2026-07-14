@@ -9,16 +9,16 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com)
 ---
 
 ### Component Registries
-- ⭐️ [heroicons-animated](https://heroicons-animated.com): 316 beautifully animated Heroicons for React. `143 ★`
-- 🖥️ [termcn](https://termcn.dev): terminal UI components for React, built on Ink and OpenTUI. `781 ★`
+- ⭐️ [heroicons-animated](https://github.com/heroicons-animated/heroicons-animated): 316 beautifully animated Heroicons for React. `143 ★`
+- 🖥️ [termcn](https://github.com/shadcn-labs/termcn): terminal UI components for React, built on Ink and OpenTUI. `781 ★`
 - 🎞️ [framecn](https://github.com/shadcn-labs/framecn): video components for React, built on Editframe. `105 ★`
-- 🖼️ [ogimagecn](https://github.com/shadcn-labs/og-image-cn): open graph image components for React, built on Satori. `117 ★`
+- 🖼️ [ogimagecn](https://github.com/shadcn-labs/ogimagecn): open graph image components for React, built on Satori. `117 ★`
 - 🤖 [agentcn](https://github.com/shadcn-labs/agentcn): customizable and production-ready AI agent recipes, built on Eve, Flue, Mastra, LangGraph. `357 ★`
 - 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX. `28 ★`
 
 ### Developer Tooling
-- 🎁 [Awesome OSS Perks](https://www.ossperks.com): CLI + site aggregating free credit and license programs for OSS maintainers. `23 ★`
-- 🩺 [Vercel Doctor](https://www.vercel-doctor.com): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects. `42 ★`
+- 🎁 [Awesome OSS Perks](https://github.com/Aniket-508/awesome-oss-perks): CLI + site aggregating free credit and license programs for OSS maintainers. `23 ★`
+- 🩺 [Vercel Doctor](https://github.com/Aniket-508/vercel-doctor): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects. `42 ★`
 
 ---
 
