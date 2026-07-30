@@ -2,7 +2,7 @@
 
 Frontend engineer obsessed with visual craft and building products that feel fast, polished, and human. Building an ecosystem of shadcn-style component registries.
 
-Founder [@shadcn-labs](https://www.shadcn-labs.com) [@tarkaworks](https://www.tarkaworks.com)
+Founder [@shadcn-labs](https://www.shadcn-labs.com) [@tarkaworks](https://github.com/tarkaworks)
 
 🌏 Mumbai, India · 🌐 [aniketpawar.com](https://www.aniketpawar.com) · 𝕏 [@alaymanguy](https://x.com/alaymanguy)
 
