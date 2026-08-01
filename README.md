@@ -1,6 +1,6 @@
 # Aniket Pawar
 
-Frontend engineer obsessed with visual craft and building products that feel fast, polished, and human. Building an ecosystem of shadcn-style component registries.
+Frontend/Design/Product engineer obsessed with visual craft and building products that feel fast, polished, and human. 
 
 Founder [@shadcn-labs](https://www.shadcn-labs.com) [@tarkaworks](https://github.com/tarkaworks)
 
