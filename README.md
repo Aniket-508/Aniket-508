@@ -23,6 +23,9 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com) [@tarkaworks](https://github
 - 🎁 [Awesome OSS Perks](https://github.com/Aniket-508/awesome-oss-perks): CLI + site aggregating free credit and license programs for OSS maintainers. `23 ★`
 - 🩺 [Vercel Doctor](https://github.com/Aniket-508/vercel-doctor): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects. `42 ★`
 - ⚓️ [Better OG](https://github.com/Aniket-508/better-og) - Better Open Graph image toolkit. `11 ★`
+- ▲ [Soubi] - Next.js for agent plugins. `7 ★`
+- 🥞 [Foldocs] - Beautiful & flexible docs framework based on Foldkit and Effect. `19 ★`
+- 🏮 [Ngxdocs] - Beautiful & flexible docs framework based on AnalogJS and AngularJS. `0 ★`
 
 ### Apps
 - 🐦 [Twitter Followers Video](https://github.com/Aniket-508/twitter-followers-video): Generate animated videos to celebrate and share your Twitter/X follower milestones. `5 ★`
