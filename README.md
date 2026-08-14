@@ -18,6 +18,7 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com) [@tarkaworks](https://github
 - 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX. `39 ★`
 - 🔌 [mcpcn](https://github.com/shadcn-labs/mcpcn): ChatGPT/Claude/MCP app UI components for React, built on Base UI. `31 ★`
 - 📧 [emailcn](https://github.com/shadcn-labs/emailcn): email components for React, built on React Email, MJML React and JSX Email. `67 ★`
+- 📄 [pdfcn](https://github.com/shadcn-labs/pdfcn): PDF components for React, built on Takumi and Forme. `451 ★`
 
 ### Developer Tooling
 - 🎁 [Awesome OSS Perks](https://github.com/Aniket-508/awesome-oss-perks): CLI + site aggregating free credit and license programs for OSS maintainers. `23 ★`
