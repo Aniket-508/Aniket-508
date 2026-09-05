@@ -12,21 +12,21 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com)
 - ⭐️ [heroicons-animated](https://github.com/heroicons-animated/heroicons-animated): 316 beautifully animated Heroicons for React. `175 ★`
 - 📦 [startercn](https://github.com/shadcn-labs/startercn): A shadcn/ui registry template with built-in landing page, docs, AI agent ready, and baked-in web haptics, audio, and animations. `27 ★`
 - 🖥️ [termcn](https://github.com/shadcn-labs/termcn): terminal UI components for React, built on Ink and OpenTUI. `1.1k ★`
-- 🎞️ [framecn](https://github.com/shadcn-labs/framecn): video components for React, built on Editframe. `124 ★`
-- 🖼️ [ogimagecn](https://github.com/shadcn-labs/ogimagecn): open graph image components for React, built on Satori. `152 ★`
-- 🤖 [agentcn](https://github.com/shadcn-labs/agentcn): customizable and production-ready AI agent recipes, built on Eve, Flue, Mastra, LangGraph. `444 ★`
-- 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX. `45 ★`
-- 🔌 [mcpcn](https://github.com/shadcn-labs/mcpcn): ChatGPT/Claude/MCP app UI components for React, built on Base UI. `39 ★`
-- 📧 [emailcn](https://github.com/shadcn-labs/emailcn): email components for React, built on React Email, MJML React and JSX Email. `184 ★`
-- 📄 [pdfcn](https://github.com/shadcn-labs/pdfcn): PDF components for React, built on Takumi and Forme. `858 ★`
-- 📝 [editorcn](https://github.com/shadcn-labs/editorcn): rich text editor components for React, built on Tiptap. `180 ★`
+- 🎞️ [framecn](https://github.com/shadcn-labs/framecn): video components for React, built on Editframe. `127 ★`
+- 🖼️ [ogimagecn](https://github.com/shadcn-labs/ogimagecn): open graph image components for React, built on Satori. `200 ★`
+- 🤖 [agentcn](https://github.com/shadcn-labs/agentcn): customizable and production-ready AI agent recipes, built on Eve, Flue, Mastra, LangGraph. `455 ★`
+- 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX. `107 ★`
+- 🔌 [mcpcn](https://github.com/shadcn-labs/mcpcn): ChatGPT/Claude/MCP app UI components for React, built on Base UI. `40 ★`
+- 📧 [emailcn](https://github.com/shadcn-labs/emailcn): email components for React, built on React Email, MJML React and JSX Email. `200 ★`
+- 📄 [pdfcn](https://github.com/shadcn-labs/pdfcn): PDF components for React, built on Takumi and Forme. `1.1k ★`
+- 📝 [editorcn](https://github.com/shadcn-labs/editorcn): rich text editor components for React, built on Tiptap. `227 ★`
 
 ### Developer Tooling
 - 🎁 [Awesome OSS Perks](https://github.com/Aniket-508/awesome-oss-perks): CLI + site aggregating free credit and license programs for OSS maintainers. `23 ★`
-- 🩺 [Vercel Doctor](https://github.com/Aniket-508/vercel-doctor): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects. `45 ★`
+- 🩺 [Vercel Doctor](https://github.com/Aniket-508/vercel-doctor): Coding-agent skill that diagnoses and fixes bill-inflating patterns on Vercel/Next.js projects. `55 ★`
 - ⚓️ [Better OG](https://github.com/Aniket-508/better-og) - Better Open Graph image toolkit. `11 ★`
 - ▲ [Soubi](https://github.com/tarkaworks/soubi) - Next.js for agent plugins. `8 ★`
-- 🥞 [Foldocs](https://github.com/tarkaworks/foldocs) - Beautiful & flexible docs framework based on Foldkit and Effect. `20 ★`
+- 🥞 [Foldocs](https://github.com/tarkaworks/foldocs) - Beautiful & flexible docs framework based on Foldkit and Effect. `22 ★`
 - 🏮 [Ngxdocs](https://github.com/tarkaworks/ngxdocs) - Beautiful & flexible docs framework based on AnalogJS and AngularJS. `1 ★`
 
 ### Apps
