@@ -2,7 +2,7 @@
 
 Frontend/Design/Product engineer obsessed with visual craft and building products that feel fast, polished, and human. 
 
-Founder [@shadcn-labs](https://www.shadcn-labs.com)
+BDFL [@shadcn-labs](https://www.shadcn-labs.com)
 
 🌏 Mumbai, India · 🌐 [aniketpawar.com](https://www.aniketpawar.com) · 𝕏 [@alaymanguy](https://x.com/alaymanguy)
 
@@ -18,9 +18,9 @@ Founder [@shadcn-labs](https://www.shadcn-labs.com)
 - 💅 [shadcn-cssinjs](https://github.com/shadcn-labs/shadcn-cssinjs): CSS-in-JS port of shadcn/ui, built on StyleX. `119 ★`
 - 🔌 [mcpcn](https://github.com/shadcn-labs/mcpcn): ChatGPT/Claude/MCP app UI components for React, built on Base UI. `45 ★`
 - 📧 [emailcn](https://github.com/shadcn-labs/emailcn): email components for React, built on React Email, MJML React and JSX Email. `290 ★`
-- 📄 [pdfcn](https://github.com/shadcn-labs/pdfcn): PDF components for React, built on Takumi and Forme. `2k ★`
+- 📄 [pdfcn](https://github.com/shadcn-labs/pdfcn): PDF components for React, built on Takumi and Forme. `2.1k ★`
 - 📝 [editorcn](https://github.com/shadcn-labs/editorcn): rich text editor components for React, built on Tiptap. `313 ★`
-- 🌈 [shadercn](https://github.com/shadcn-labs/shadercn): shader components for React, built on vgpu and TypeGPU. `80 ★`
+- 🌈 [shadercn](https://github.com/shadcn-labs/shadercn): shader components for React, built on vgpu and TypeGPU. `103 ★`
 
 ### Developer Tooling
 - 🎁 [Awesome OSS Perks](https://github.com/Aniket-508/awesome-oss-perks): CLI + site aggregating free credit and license programs for OSS maintainers. `25 ★`
